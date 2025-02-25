@@ -1,0 +1,14 @@
+{
+  "/[id]/route": "app/[id]/route.js",
+  "/page": "app/page.js",
+  "/api/docuseal/route": "app/api/docuseal/route.js",
+  "/api/templates/fetch/route": "app/api/templates/fetch/route.js",
+  "/api/templates/save/route": "app/api/templates/save/route.js",
+  "/api/templates/[templateId]/edit/route": "app/api/templates/[templateId]/edit/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/productivity/templates/page": "app/dashboard/productivity/templates/page.js",
+  "/dashboard/productivity/template-builder/page": "app/dashboard/productivity/template-builder/page.js",
+  "/dashboard/productivity/templates/[templateId]/send/page": "app/dashboard/productivity/templates/[templateId]/send/page.js",
+  "/dashboard/productivity/template-builder/edit/page": "app/dashboard/productivity/template-builder/edit/page.js"
+}
